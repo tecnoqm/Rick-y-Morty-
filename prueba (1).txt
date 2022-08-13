@@ -1,0 +1,20 @@
+<html>
+<title> infomediaPLUS </title>
+<body>
+<body background = "fondo4.png">
+<h1><center> <font color="white" size="7" face="Minecraft"</h1>
+<br>
+<h1><center> Rick y Morty
+<br>
+<img src="rick.jpg" style=width:700px height:400px>
+<h1><center><font color="white" size="7" face="Minecraft">Sinopsis </h1></center></font>
+<p><font color="white" size="6" face=ªArialª>Rick y Morty (en ingl√©s: Rick and Morty) es una serie de televisi√≥n estadounidense de animaci√≥n para adultos creada por Justin Roiland y Dan Harmon en 2013 para Adult Swim. La serie sigue las desventuras de un cient√≠fico, Rick, y su f√°cilmente influenciable nieto, Morty, quienes pasan el tiempo entre la vida dom√©stica y los viajes espaciales, temporales e intergal√°cticos. Roiland es el encargado de darle voz a Rick y a Morty, la serie tambi√©n incluye las voces de Chris Parnell, Spencer Grammer y Sarah Chalke.
+
+La serie se origin√≥ por un cortometraje rudimentario animado por Roiland para el festival de cine Channel 101 llamado Doc and Mharti, una parodia de los principales protagonistas de Back to the Future. Cuando la cadena NBC despidi√≥ a Harmon en 2013 por discusiones entre √©l y los ejecutivos de la serie que hab√≠a creado, Community, √©l y Roiland desarrollaron una serie basada en los personajes ya creados por Roiland</font></p>.
+<h1><center><font color="white" size="7" face="Minecraft">Datos y Curiosidades </center></font>
+
+<p><font color="white" size="6" face=ªArialª> Rick y Morty actualmente cuenta con 51 episodios repartidos en 5 temporadas</font></p>
+<p><font color="white" size="6" face=ªArialª>La temporada mas larga es la 1ra contando con 11 episodios mientras el resto unicamente con 10</p>
+<p><font color="white" size="6" face=ªArialª>El eructo de Rick se le escapo a Roiland en una grabacion y desde entonces lo incorporo a la serie. Lo realiza tras beber cerveza light y una botella de agua</font></p>
+<p><font color="white" size="6" face=ªArialª>Roiland compuso la cancion Get Schwifty cuando era un nino</p>
+
